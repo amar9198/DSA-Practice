@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amar9198/DSA-Practice/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/amar9198/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0075-sort-colors](https://github.com/amar9198/DSA-Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/amar9198/DSA-Practice/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amar9198/DSA-Practice/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/amar9198/DSA-Practice/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/amar9198/DSA-Practice/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/amar9198/DSA-Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/amar9198/DSA-Practice/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -28,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/amar9198/DSA-Practice/tree/master/0037-sudoku-solver) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/amar9198/DSA-Practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/amar9198/DSA-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
