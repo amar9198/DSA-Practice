@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amar9198/DSA-Practice/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/amar9198/DSA-Practice/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/amar9198/DSA-Practice/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/amar9198/DSA-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/amar9198/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/amar9198/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/amar9198/DSA-Practice/tree/master/0075-sort-colors) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/amar9198/DSA-Practice/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/amar9198/DSA-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/amar9198/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/amar9198/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/amar9198/DSA-Practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
