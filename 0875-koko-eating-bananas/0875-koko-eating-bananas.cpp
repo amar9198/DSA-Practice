@@ -1,17 +1,21 @@
+#include<bits/stdc++.h>
 class Solution {
 public:
     int findMax(vector<int>& piles) {
+        int n=piles.size();
         int maxi = INT_MIN;
-        for (int pile : piles)
-            maxi = max(maxi, pile);
+        for (int i =0;i<n;i++){
+            maxi = max(maxi, piles[i]);
+        }    
         return maxi;
     }
 
     long long calculateTotalHours(vector<int>& piles, int hourly) {
         long long totalH = 0;
-        for (int pile : piles) {
-            totalH += (pile + hourly - 1) / hourly;
-        }
+       int n=piles.size();
+        for (int i =0;i<n;i++){
+            totalH+=ceil((double)piles[i]/(double)hourly);
+        }    
         return totalH;
     }
 
