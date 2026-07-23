@@ -17,7 +17,7 @@ int countStudents(vector<int>& arr, long long pages) {
     return students;
 }
 
-long long ayushGivesNinjatest(int n, int m, vector<int> time) {
+long long findPages(int n, int m, vector<int> time) {
 
     // n = days (students), m = chapters
     if (n>m) return -1;
@@ -40,7 +40,7 @@ long long ayushGivesNinjatest(int n, int m, vector<int> time) {
     return low;
 }
     int splitArray(vector<int>& nums, int k) {
-        return ayushGivesNinjatest(k,nums.size(),nums);
+        return findPages(k,nums.size(),nums);
         
     }
 };
