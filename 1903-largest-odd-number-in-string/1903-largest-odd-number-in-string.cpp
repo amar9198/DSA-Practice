@@ -1,23 +1,12 @@
 class Solution {
 public:
     string largestOddNumber(string num) {
-               int ind = -1;
-
-        // Find the last odd digit in the string
-        int i;
-        for (i = num.length() - 1; i >= 0; i--) {
-            if ((num[i] - '0') % 2 == 1) {
-                ind = i;
-                break;
-            }
+      for(int i=num.size()-1;i>=0;i--){
+        if((num[i]-'0')%2!=0){
+            return num.substr(0,i+1);
         }
-
-        // Skip leading zeroes up to the odd digit
-        i = 0;
-        while (i <= ind && num[i] == '0') i++;
-
-        // Return substring from first non-zero to odd digit
-        return num.substr(i, ind - i + 1);
+      }
+      return "";
     }
 };
     
