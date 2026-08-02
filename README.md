@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/amar9198/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/amar9198/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/amar9198/DSA-Practice/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/amar9198/DSA-Practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/amar9198/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/amar9198/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/amar9198/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/amar9198/DSA-Practice/tree/master/0877-stone-game) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/amar9198/DSA-Practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
