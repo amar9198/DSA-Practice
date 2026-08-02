@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/amar9198/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amar9198/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/amar9198/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/amar9198/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/amar9198/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amar9198/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/amar9198/DSA-Practice/tree/master/0704-binary-search) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amar9198/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/amar9198/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/amar9198/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/amar9198/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/amar9198/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/amar9198/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/amar9198/DSA-Practice/tree/master/0877-stone-game) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/amar9198/DSA-Practice/tree/master/0048-rotate-image) |
+| [0486-predict-the-winner](https://github.com/amar9198/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/amar9198/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/amar9198/DSA-Practice/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/amar9198/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/amar9198/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/amar9198/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -196,5 +200,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/amar9198/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/amar9198/DSA-Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
