@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amar9198/DSA-Practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/amar9198/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/amar9198/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/amar9198/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/amar9198/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/amar9198/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/amar9198/DSA-Practice/tree/master/0048-rotate-image) |
 | [0371-sum-of-two-integers](https://github.com/amar9198/DSA-Practice/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/amar9198/DSA-Practice/tree/master/0486-predict-the-winner) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/amar9198/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/amar9198/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/amar9198/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/amar9198/DSA-Practice/tree/master/0205-isomorphic-strings) |
