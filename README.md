@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/amar9198/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/amar9198/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/amar9198/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/amar9198/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amar9198/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amar9198/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -212,12 +213,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/amar9198/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/amar9198/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amar9198/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/amar9198/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/amar9198/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/amar9198/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/amar9198/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/amar9198/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/amar9198/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/amar9198/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/amar9198/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amar9198/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
