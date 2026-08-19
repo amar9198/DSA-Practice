@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/amar9198/DSA-Practice/tree/master/0877-stone-game) |
 | [0983-minimum-cost-for-tickets](https://github.com/amar9198/DSA-Practice/tree/master/0983-minimum-cost-for-tickets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amar9198/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/amar9198/DSA-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/amar9198/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/amar9198/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/amar9198/DSA-Practice/tree/master/1901-find-a-peak-element-ii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/amar9198/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/amar9198/DSA-Practice/tree/master/0877-stone-game) |
 | [0983-minimum-cost-for-tickets](https://github.com/amar9198/DSA-Practice/tree/master/0983-minimum-cost-for-tickets) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/amar9198/DSA-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 ## Simulation
 |  |
 | ------- |
@@ -286,4 +288,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/amar9198/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/amar9198/DSA-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/amar9198/DSA-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
