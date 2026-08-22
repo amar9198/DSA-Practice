@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/amar9198/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1402-reducing-dishes](https://github.com/amar9198/DSA-Practice/tree/master/1402-reducing-dishes) |
 | [1539-kth-missing-positive-number](https://github.com/amar9198/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/amar9198/DSA-Practice/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1824-minimum-sideway-jumps](https://github.com/amar9198/DSA-Practice/tree/master/1824-minimum-sideway-jumps) |
 | [1901-find-a-peak-element-ii](https://github.com/amar9198/DSA-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amar9198/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amar9198/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/amar9198/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1402-reducing-dishes](https://github.com/amar9198/DSA-Practice/tree/master/1402-reducing-dishes) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/amar9198/DSA-Practice/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Backtracking
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/amar9198/DSA-Practice/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/amar9198/DSA-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1402-reducing-dishes](https://github.com/amar9198/DSA-Practice/tree/master/1402-reducing-dishes) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/amar9198/DSA-Practice/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1824-minimum-sideway-jumps](https://github.com/amar9198/DSA-Practice/tree/master/1824-minimum-sideway-jumps) |
 ## Simulation
 |  |
