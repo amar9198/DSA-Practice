@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amar9198/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/amar9198/DSA-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/amar9198/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1388-pizza-with-3n-slices](https://github.com/amar9198/DSA-Practice/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/amar9198/DSA-Practice/tree/master/1402-reducing-dishes) |
 | [1539-kth-missing-positive-number](https://github.com/amar9198/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/amar9198/DSA-Practice/tree/master/1691-maximum-height-by-stacking-cuboids) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/amar9198/DSA-Practice/tree/master/0877-stone-game) |
 | [0983-minimum-cost-for-tickets](https://github.com/amar9198/DSA-Practice/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/amar9198/DSA-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1388-pizza-with-3n-slices](https://github.com/amar9198/DSA-Practice/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/amar9198/DSA-Practice/tree/master/1402-reducing-dishes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/amar9198/DSA-Practice/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1824-minimum-sideway-jumps](https://github.com/amar9198/DSA-Practice/tree/master/1824-minimum-sideway-jumps) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/amar9198/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [1388-pizza-with-3n-slices](https://github.com/amar9198/DSA-Practice/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/amar9198/DSA-Practice/tree/master/1402-reducing-dishes) |
 | [1824-minimum-sideway-jumps](https://github.com/amar9198/DSA-Practice/tree/master/1824-minimum-sideway-jumps) |
 | [1903-largest-odd-number-in-string](https://github.com/amar9198/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/amar9198/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [1388-pizza-with-3n-slices](https://github.com/amar9198/DSA-Practice/tree/master/1388-pizza-with-3n-slices) |
 ## Bucket Sort
 |  |
 | ------- |
