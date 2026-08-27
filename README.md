@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/amar9198/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/amar9198/DSA-Practice/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/amar9198/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/amar9198/DSA-Practice/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0875-koko-eating-bananas](https://github.com/amar9198/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/amar9198/DSA-Practice/tree/master/0877-stone-game) |
 | [0983-minimum-cost-for-tickets](https://github.com/amar9198/DSA-Practice/tree/master/0983-minimum-cost-for-tickets) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/amar9198/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/amar9198/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/amar9198/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/amar9198/DSA-Practice/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0877-stone-game](https://github.com/amar9198/DSA-Practice/tree/master/0877-stone-game) |
 | [0983-minimum-cost-for-tickets](https://github.com/amar9198/DSA-Practice/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/amar9198/DSA-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
