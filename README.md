@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amar9198/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/amar9198/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/amar9198/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/amar9198/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amar9198/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/amar9198/DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/amar9198/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/amar9198/DSA-Practice/tree/master/0048-rotate-image) |
+| [0096-unique-binary-search-trees](https://github.com/amar9198/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0371-sum-of-two-integers](https://github.com/amar9198/DSA-Practice/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/amar9198/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/amar9198/DSA-Practice/tree/master/0509-fibonacci-number) |
@@ -315,4 +317,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/amar9198/DSA-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/amar9198/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/amar9198/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/amar9198/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
