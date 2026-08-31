@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/amar9198/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amar9198/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/amar9198/DSA-Practice/tree/master/0322-coin-change) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/amar9198/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0410-split-array-largest-sum](https://github.com/amar9198/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/amar9198/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/amar9198/DSA-Practice/tree/master/0509-fibonacci-number) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amar9198/DSA-Practice/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/amar9198/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0371-sum-of-two-integers](https://github.com/amar9198/DSA-Practice/tree/master/0371-sum-of-two-integers) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/amar9198/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/amar9198/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/amar9198/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/amar9198/DSA-Practice/tree/master/0877-stone-game) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/amar9198/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/amar9198/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/amar9198/DSA-Practice/tree/master/0877-stone-game) |
 ## String Matching
@@ -329,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/amar9198/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/amar9198/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
