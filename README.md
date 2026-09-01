@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/amar9198/DSA-Practice/tree/master/0983-minimum-cost-for-tickets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amar9198/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/amar9198/DSA-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/amar9198/DSA-Practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/amar9198/DSA-Practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/amar9198/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1388-pizza-with-3n-slices](https://github.com/amar9198/DSA-Practice/tree/master/1388-pizza-with-3n-slices) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/amar9198/DSA-Practice/tree/master/0877-stone-game) |
 | [0983-minimum-cost-for-tickets](https://github.com/amar9198/DSA-Practice/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/amar9198/DSA-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/amar9198/DSA-Practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/amar9198/DSA-Practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-pizza-with-3n-slices](https://github.com/amar9198/DSA-Practice/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/amar9198/DSA-Practice/tree/master/1402-reducing-dishes) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/amar9198/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/amar9198/DSA-Practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1388-pizza-with-3n-slices](https://github.com/amar9198/DSA-Practice/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/amar9198/DSA-Practice/tree/master/1402-reducing-dishes) |
 | [1824-minimum-sideway-jumps](https://github.com/amar9198/DSA-Practice/tree/master/1824-minimum-sideway-jumps) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/amar9198/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/amar9198/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/amar9198/DSA-Practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amar9198/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
@@ -336,4 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/amar9198/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/amar9198/DSA-Practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/amar9198/DSA-Practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 <!---LeetCode Topics End-->
