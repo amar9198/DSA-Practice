@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/amar9198/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/amar9198/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amar9198/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amar9198/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/amar9198/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/amar9198/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amar9198/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/amar9198/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/amar9198/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amar9198/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amar9198/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/amar9198/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/amar9198/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amar9198/DSA-Practice/tree/master/0213-house-robber-ii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amar9198/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/amar9198/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/amar9198/DSA-Practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1388-pizza-with-3n-slices](https://github.com/amar9198/DSA-Practice/tree/master/1388-pizza-with-3n-slices) |
