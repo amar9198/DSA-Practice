@@ -1,6 +1,6 @@
 class Solution {
 public:
-  int SolveSpace(vector<int>& prices,int k){
+  int Solve(vector<int>& prices,int k){
         int n = prices.size();
         vector<vector<int>> curr(2,vector<int>(k+1,0));
         vector<vector<int>> next(2,vector<int>(k+1,0));
@@ -25,6 +25,6 @@ public:
         return next[1][k];
     }       
     int maxProfit(int k,vector<int>& prices) {
-        return SolveSpace(prices,k);  
+        return Solve(prices,k);  
     }
 };
