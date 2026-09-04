@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/amar9198/DSA-Practice/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/amar9198/DSA-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/amar9198/DSA-Practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1143-longest-common-subsequence](https://github.com/amar9198/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/amar9198/DSA-Practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-pizza-with-3n-slices](https://github.com/amar9198/DSA-Practice/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/amar9198/DSA-Practice/tree/master/1402-reducing-dishes) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/amar9198/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/amar9198/DSA-Practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/amar9198/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/amar9198/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amar9198/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/amar9198/DSA-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/amar9198/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -358,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/amar9198/DSA-Practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/amar9198/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
