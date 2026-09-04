@@ -1,6 +1,6 @@
 class Solution {
 public:
- int SolveSpace(string& a,string& b){
+ int SolveSpace(string a,string b){
         vector<int>curr(b.length()+1,0);
         vector<int>next(b.length()+1,0);
 
