@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/amar9198/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/amar9198/DSA-Practice/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/amar9198/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/amar9198/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/amar9198/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/amar9198/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amar9198/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/amar9198/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/amar9198/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/amar9198/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/amar9198/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amar9198/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/amar9198/DSA-Practice/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/amar9198/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/amar9198/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/amar9198/DSA-Practice/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/amar9198/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/amar9198/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/amar9198/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amar9198/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/amar9198/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/amar9198/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/amar9198/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/amar9198/DSA-Practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/amar9198/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/amar9198/DSA-Practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Cartesian Tree
 |  |
