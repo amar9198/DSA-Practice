@@ -1,32 +1,28 @@
 class Solution {
 public:
-    int SolveSpace(string& a,string& b){
-        vector<int>curr(b.length()+1,0);
-        vector<int>next(b.length()+1,0);
-        for(int j=0;j<b.length();j++){
-            next[j]=b.length()-j; 
+    int SolveMem(string& a,string& b,int i,int j,vector<vector<int>>&dp){
+        if(i==a.length()){
+            return b.length()-j;
         }
-        for(int i=a.length()-1;i>=0;i--){
-            for(int j=b.length()-1;j>=0;j--){
-                curr[b.length()]=a.length()-i;
-                int ans=0;
-                if(a[i]==b[j]){
-                ans= next[j+1];
-                }else{
-                    int insertAns=1+curr[j+1];
-                    int deleteAns=1+next[j];
-                    int replaceAns=1+next[j+1];
-                    ans=min(insertAns,min(deleteAns,replaceAns));
-                }
-                curr[j]=ans;
-            }
-            next=curr;
+        if(j==b.length()){
+            return a.length()-i;
+        }    
+        if(dp[i][j]!=-1) return dp[i][j];
+        int ans=0;
+        if(a[i]==b[j]){
+            return SolveMem(a,b,i+1,j+1,dp);
+        }else{
+            int insertAns=1+SolveMem(a,b,i,j+1,dp);
+            int deleteAns=1+SolveMem(a,b,i+1,j,dp);
+            int replaceAns=1+SolveMem(a,b,i+1,j+1,dp);
+            ans=min(insertAns,min(deleteAns,replaceAns));
         }
-        return next[0];
-        }
+        return dp[i][j]=ans;
+    }
     int minDistance(string word1, string word2) {
-        if(word1.length()==0)  return word2.length();
-        if(word2.length()==0) return word1.length();
-        return SolveSpace(word1,word2); 
+        vector<vector<int>>dp(word1.length(),vector<int>(word2.length(),-1));
+        return SolveMem(word1,word2,0,0,dp);
+
+        
     }
 };
