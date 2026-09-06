@@ -1,27 +1,26 @@
 class Solution {
 public:
-    bool SolveMem(string& str,string& pattern,int i, int j,vector<vector<int>>& dp){
-        if(i<0 && j<0) return true;
-        if(i>=0 && j<0)  return false;
-        if(i<0 && j>=0){
-            for(int k=0;k<=j;k++){
-                if(pattern[k]!='*'){
+    bool SolveTab(string& str,string& pattern,int i, int j,vector<vector<int>>& dp){
+        if(i==0 && j==0) return true;
+        if(i>0 && j==0)  return false;
+        if(i==0 && j>0){
+            for(int k=1;k<=j;k++){
+                if(pattern[k-1]!='*'){
                     return false;
                 }
             } 
             return true;
         }
-    
     if(dp[i][j]!=-1) 
         return dp[i][j];
-    if(str[i]==pattern[j] || pattern[j] == '?')
-       return dp[i][j]=SolveMem(str,pattern,i-1,j-1,dp);
-    else if(pattern[j]=='*')
-        return dp[i][j] = (SolveMem(str,pattern,i-1,j,dp)||(SolveMem(str,pattern,i,j-1,dp)));
+    if(str[i-1]==pattern[j-1] || pattern[j-1] == '?')
+       return dp[i][j]=SolveTab(str,pattern,i-1,j-1,dp);
+    else if(pattern[j-1]=='*')
+        return dp[i][j] = (SolveTab(str,pattern,i-1,j,dp)||SolveTab(str,pattern,i,j-1,dp));
     else  return false;    
     }   
     bool isMatch(string s, string p) {
-        vector<vector<int>>dp(s.length(),vector<int>(p.length(),-1));
-        return SolveMem(s,p,s.length()-1,p.length()-1,dp);  
+        vector<vector<int>>dp(s.length()+1,vector<int>(p.length()+1,-1));
+        return SolveTab(s,p,s.length(),p.length(),dp);  
     }
 };
