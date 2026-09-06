@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool SolveTab(string& str,string& pattern,int i, int j,vector<vector<int>>& dp){
+    bool SolveMem(string& str,string& pattern,int i, int j,vector<vector<int>>& dp){
         if(i==0 && j==0) return true;
         if(i>0 && j==0)  return false;
         if(i==0 && j>0){
@@ -14,13 +14,13 @@ public:
     if(dp[i][j]!=-1) 
         return dp[i][j];
     if(str[i-1]==pattern[j-1] || pattern[j-1] == '?')
-       return dp[i][j]=SolveTab(str,pattern,i-1,j-1,dp);
+       return dp[i][j]=SolveMem(str,pattern,i-1,j-1,dp);
     else if(pattern[j-1]=='*')
-        return dp[i][j] = (SolveTab(str,pattern,i-1,j,dp)||SolveTab(str,pattern,i,j-1,dp));
+        return dp[i][j] = (SolveMem(str,pattern,i-1,j,dp)||SolveMem(str,pattern,i,j-1,dp));
     else  return false;    
     }   
     bool isMatch(string s, string p) {
         vector<vector<int>>dp(s.length()+1,vector<int>(p.length()+1,-1));
-        return SolveTab(s,p,s.length(),p.length(),dp);  
+        return SolveMem(s,p,s.length(),p.length(),dp);  
     }
 };
